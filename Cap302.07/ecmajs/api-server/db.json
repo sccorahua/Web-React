@@ -1,0 +1,42 @@
+{
+  "platos": [
+    {
+      "id": 1,
+      "nombre": "Lomo Saltado",
+      "precio": 20.45,
+      "descripcion": "plato tipico de Perú"
+    },
+    {
+      "id": 2,
+      "nombre": "Ceviche",
+      "precio": 18.7,
+      "descripcion": "plato tipido de la costa peruana"
+    }
+  ],
+  "empresas": [
+    {
+      "nombre": "Apple",
+      "descripcion": "Tienda que mas me gusta",
+      "calificacion": "2",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Microsoft",
+      "descripcion": "empresa dedicada a la venta de software",
+      "calificacion": "7"
+    },
+    {
+      "id": 5,
+      "nombre": "Plaza Vea",
+      "descripcion": "Supermercado posicionado en varios lados",
+      "calificacion": "8"
+    },
+    {
+      "nombre": "454",
+      "decripcion": "asdasdasdasdasdsdasdd",
+      "calificacion": "3",
+      "id": 6
+    }
+  ]
+}
